@@ -15,7 +15,7 @@ export const robots =[
 	id: 3,
 	name: 'David Patlut',
 	username: 'Mr.Peanut',
-	email: 'david@mail.com'
+	email: 'davidp@mail.com'
 },
 {
 	id: 4,
@@ -82,5 +82,11 @@ export const robots =[
 	name: 'Sam Lubin',
 	username: 'Sam',
 	email: 'sam@mail.com'
+},
+{
+	id: 15,
+	name: 'Random Person',
+	username: 'Rando',
+	email: 'rando@mail.com'
 }
 ]
